@@ -1,0 +1,13 @@
+{
+  "name": "discord-selfbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "discord.js-v11-stable": "^11.6.5",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.3"
+  }
+}
